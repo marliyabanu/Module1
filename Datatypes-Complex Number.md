@@ -21,7 +21,8 @@ print("Real part of x:", x.real)
 print("Imaginary part of x:", x.imag)
 
 ## Output
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/508acf52-b127-4d72-981e-3ddfb4b74568" />
+<img width="1477" height="337" alt="image" src="https://github.com/user-attachments/assets/2f096100-8cda-44a3-af04-0d723b06b30a" />
+
 
 
 ## Result
