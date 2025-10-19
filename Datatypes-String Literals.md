@@ -15,7 +15,8 @@ print("You entered:", men_stepped_on_the_moon)
 
 
 ## Output
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51f2e474-ad42-4057-a0d3-30fc38238444" />
+<img width="1663" height="431" alt="image" src="https://github.com/user-attachments/assets/6f9fc3a9-ee86-4fc5-babd-a0dd5848c7ba" />
+
 
 
 ## Resul
