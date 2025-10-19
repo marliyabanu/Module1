@@ -26,7 +26,8 @@ else:
 
 ## Output
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d521cba8-8fce-4052-b37b-8780b1ba0112" />
+<img width="1077" height="356" alt="image" src="https://github.com/user-attachments/assets/7412eb75-7e7a-4374-9b39-02c6936602a2" />
+
 
 
 
