@@ -31,7 +31,8 @@ print("d:", d)
 
 ## Output
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99519035-0f25-4c70-83c9-0bbd9c74848e" />
+<img width="1348" height="312" alt="image" src="https://github.com/user-attachments/assets/5a6c4edf-ae08-44cd-bc21-9f8eb04c141a" />
+
 
 
 ## Result
