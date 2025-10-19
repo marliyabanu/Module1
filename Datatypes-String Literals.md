@@ -19,6 +19,6 @@ print("You entered:", men_stepped_on_the_moon)
 
 
 ## Resul
-a Python program to read a string from the user and then print it is excuted sucessfully.
+A Python program to read a string from the user and then print it is excuted sucessfuly.
 
 
