@@ -9,6 +9,15 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 
 ## 🧾 Program
 
+print('T')
+print('a')
+
+
 ## Output
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4bea73be-d5ba-4a4d-ba1b-413a4db1f4da" />
+
+
 ## Result
+a Python program that prints the characters `'T'` and `'a'` using character literals is excuted sucessfully.
+
