@@ -15,7 +15,8 @@ print('a')
 
 ## Output
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4bea73be-d5ba-4a4d-ba1b-413a4db1f4da" />
+<img width="1717" height="351" alt="image" src="https://github.com/user-attachments/assets/289d8611-28f6-4c29-ac18-f18c22a418e3" />
+
 
 
 ## Result
